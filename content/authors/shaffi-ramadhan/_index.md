@@ -10,4 +10,6 @@ social:
     icon: mail
 email: Shaffi.ramadhan@humanneedsproject.org
 superuser: false
+user_groups:
+  - Researchers
 ---
