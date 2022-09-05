@@ -9,5 +9,7 @@ social:
     icon_pack: fas
     icon: mail
 superuser: false
+user_groups:
+  - Researchers
 ---
 denonyamu@gmail.com 
