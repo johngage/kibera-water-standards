@@ -9,20 +9,26 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-\# We all share one goal: Clean Water for Our Children
+# We all share one goal: Clean Water for Our Children
 
 We work together toward that goal
+- Parents
+- Vendors
+- Schools
+- Churches
 
-\## Two Parallel Paths
+## Two Parallel Paths
 
-\### Build Kibera Water Quality Measurement: How Are We Doing?
+### Build Kibera water quality measurement across all Kibera: How Are We Doing?
 
-* Build the Kibera Water Corps: measuring everywhere, every day
-* Coordinate with all villages, all vendors, all clinics, all schools
+* Build the Kibera Water Corps: measuring everywhere, every day, with 1000 trained water testers working together with the Kenya Water Institute, the City-County of Nairobi, the Kenya Ministry of Water and Sanitation and Irrigation, and all public health authorities
+* Coordinate with all villages, all vendors, all clinics, all schools, all churches, all council of elders
 
-\### Build Kibera Water Quality: What Steps Do We Take?
+### Build Kibera Water Quality: What Steps Do We Take?
 
 * Ongoing meetings of Kibera Water Vendors Association
-* Ongoing meetings of Kibers Water Sanitation Vendors Association
+* Ongoing meetings of Kibera Water Sanitation Vendors Association
 * Ongoing meetings of Woodley Nairobi Water and Sewerage Office with all stakeholders
-* Creation of agreed-upon Kibera Water Standards
+* Creation of agreed-upon Kibera Water Standards, meeting national and international standards
+* Establish payment and loan system to finance upgrade of all water facilities in Kibera. 
+* Create Target Board, with power to establish upgrade path for every facility, and Build Board, to decide priorities and financing for each facility improvement program
