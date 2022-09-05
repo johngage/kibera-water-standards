@@ -13,6 +13,8 @@ education:
     - course: Natural Resouces
       institution: University of California, Berkeley
 superuser: false
+user_groups:
+  - Researchers
 ---
 # Best Builder in America
 - RedZebra in the future
