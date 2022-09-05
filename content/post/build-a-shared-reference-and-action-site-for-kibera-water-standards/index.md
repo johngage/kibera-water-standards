@@ -17,7 +17,7 @@ We work together toward that goal
 - Schools
 - Churches
 
-## Two Parallel Paths
+# Two Parallel Paths
 
 ### Build Kibera water quality measurement across all Kibera: How Are We Doing?
 
