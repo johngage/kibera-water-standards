@@ -1,5 +1,5 @@
 ---
-title: Shaffi Ramadan
+title: Shaffi Ramadhan
 role: Director, Information Technology
 avatar_filename: avatar
 social:
