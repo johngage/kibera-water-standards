@@ -17,4 +17,4 @@ user_groups:
   - Researchers
 ---
 # Best Builder in America
-- RedZebra will lead Kenan builders in the future
+- RedZebra will lead Kenyan builders in the future
