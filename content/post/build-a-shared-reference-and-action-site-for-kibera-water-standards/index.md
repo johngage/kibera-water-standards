@@ -1,5 +1,5 @@
 ---
-title: Build a shared reference and action site for Kibera water standards
+title: We are building a shared reference and action site for Kibera water standards
 subtitle: All Kibera together for clean water for our children
 date: 2022-09-05T17:57:10.190Z
 draft: false
