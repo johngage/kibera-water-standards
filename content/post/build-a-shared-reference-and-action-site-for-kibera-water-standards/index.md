@@ -33,4 +33,5 @@ We work together toward that goal
 * Ongoing meetings of Woodley Nairobi Water and Sewerage Office with all stakeholders
 * Creation of agreed-upon Kibera Water Standards, meeting national and international standards
 * Establish payment and loan system to finance upgrade of all water facilities in Kibera. 
-* Create Target Board, with power to establish upgrade path for every facility, and Build Board, to decide priorities and financing for each facility improvement program
+* Create **Target Board**, with power to establish upgrade path for every facility
+* Create  **Build Board**, to decide priorities and financing for each facility improvement program
