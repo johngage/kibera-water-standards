@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-# We all share one goal: Clean Water for Our Children
+# We share one goal: ***Clean Water for Our Children***
 
 We work together toward that goal
 - Parents
