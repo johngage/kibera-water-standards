@@ -11,16 +11,17 @@ design:
   css_class: null
 hero_media: flyoverwest.jpg
 ---
-
+Tuesday, September 6, 2022
+Nairobi
 <br>
 
-The **Kibera Water Research Group** has been a center of excellence for water quality research, teaching, and practice since its founding in 2010.
+The **Kibera Water Research Group** has been a center of excellence for water quality research, teaching, and practice since its founding in 2012.
 
 see [Kiberawater.com](https://kiberawater.com)
 
-Before this coming Tuesday, we will hold initial meetings with our collaborators at SHOFCO, Kibera Town Centre, Carolina for Kibera, and KDI to discuss a common approach to the new administration of Nairobi City-County, and of Kenya. 
+In the following week, we will hold initial meetings with our collaborators at SHOFCO, Kibera Town Centre, Carolina for Kibera, and KDI to discuss a common approach to the new administrations of Nairobi City-County and of Kenya. 
 
-Our goal is to unite all those who provide the water supply of Kibera:
+Our goal is to unite all those who provide the water supply of Kibera in creating a common agenda with agreed-upon common areas of agreement as we seek new resources for Kibera. 
 
 - Nairobi Water and Sewerage Company
 - Water vendors
@@ -34,9 +35,10 @@ Our goal is to unite all those who provide the water supply of Kibera:
 - Restaurants, bars and cafes
 - Schools
 - Churches and mosques
+- Suppliers of water engineering, water equipment, and water training and education
 
 <hr>
 
 Each group has its own resources, its own finances, its own methods and procedures, and its own way of interacting with the other groups. But we all share a common interest: providing our children with clean, healthy water.
 
-To that end, we propose a set of common actions and new financial resources to improve the ability of *all* groups to *provide* clean water, *rebuild* Kiberan infrastructure, *train* a new generation of water providers, *upgrade* all equipment, and *make water clean and affordable by all*
+To that end, we propose a set of common actions and new financial resources to improve the ability of *all* groups to *provide* clean water, *rebuild* Kiberan infrastructure, *train* a new generation of water providers, *upgrade* all equipment, and *make water in Kibera clean and affordable by all*
