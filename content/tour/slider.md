@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: 👋 Bringing water professionals together
       content: Take a look at what we're working on...
       align: center
       background:
@@ -24,15 +24,15 @@ content:
         brightness: 0.7
         media: coders.jpg
     - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      content: 'Share water expertise!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: World-Class Water Quality Testing Lab
+      content: 'All Are Welcome!'
       align: right
       background:
         position: center
