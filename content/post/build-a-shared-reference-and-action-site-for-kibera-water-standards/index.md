@@ -4,6 +4,8 @@ subtitle: All Kibera together for clean water for our children
 date: 2022-09-05T17:57:10.190Z
 draft: false
 featured: false
+authors:
+  - Kibera
 image:
   filename: featured
   focal_point: Smart
