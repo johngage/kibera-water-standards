@@ -15,3 +15,6 @@ hero_media: welcome.jpg
 <br>
 
 The **Kibera Water Research Group** has been a center of excellence for water quality research, teaching, and practice since its founding in 2010.
+
+see [Kiberawater.com](https://kiberawater.com)
+
