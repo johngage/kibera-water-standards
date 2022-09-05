@@ -1,21 +1,15 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
- Kibera Water  
-  Research Group
-hero_media: welcome.jpg
+widget: hero
+widget_id: Recent Posts
+headless: true
+weight: 10
+title: Kibera Water Research Group
+subtitle: Building Kibera Water for the Future of our Children
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
+hero_media: welcome.jpg
 ---
 
 <br>
