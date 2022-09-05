@@ -23,13 +23,20 @@ Before this coming Tuesday, we will hold initial meetings with our collaborators
 Our goal is to unite all those who provide the water supply of Kibera:
 
 - Nairobi Water and Sewerage Company
-- All water vendors
-- All borehole operators
-- All bowser sources
-- All sanitation vendors
-- All distribution networks
+- Water vendors
+- Tank and distribution pipe owners
+- Borehole operators
+- Bowser sources
+- Sanitation vendors
+- Water distribution networks
+- Water bottlers
 - Beverage and bottled water retailers
+- Restaurants, bars and cafes
+- Schools
+- Churches and mosques
 
 <hr>
 
+Each group has its own resources, its own finances, its own methods and procedures, and its own way of interacting with the other groups. But we all share a common interest: providing our children with clean, healthy water.
 
+To that end, we propose a set of common actions and new financial resources to improve the ability of *all* groups to *provide* clean water, *rebuild* Kiberan infrastructure, *train* a new generation of water providers, *upgrade* all equipment, and *make water clean and affordable by all*
