@@ -37,7 +37,7 @@ superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-email: ""
+email: "john.gage@gmail.com"
 ---
 
 John Gage has worked with Human Needs Project since 2011.
