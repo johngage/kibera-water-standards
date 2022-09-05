@@ -21,7 +21,7 @@ We work together toward that goal
 
 ### Build Kibera water quality measurement across all Kibera: How Are We Doing?
 
-* Build the Kibera Water Corps: measuring everywhere, every day, with 1000 trained water testers working together with the Kenya Water Institute, the City-County of Nairobi, the Kenya Ministry of Water and Sanitation and Irrigation, and all public health authorities
+* Build the Kibera Water Corps: measuring everywhere, every day, with 1000 trained water testers working together with the Kenya Water Institute, NWSC, the City-County of Nairobi, the Kenya Ministry of Water and Sanitation and Irrigation, and all public health authorities
 * Coordinate with all villages, all vendors, all clinics, all schools, all churches, all council of elders
 
 ### Build Kibera Water Quality: What Steps Do We Take?
