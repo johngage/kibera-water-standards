@@ -627,6 +627,15 @@ Updated
   <style>
      td {
     border: 3px solid #f40505;}
+    td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 2px solid #ff0000;
+}
 
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
