@@ -625,6 +625,9 @@ Updated
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>try2</title>
   <style>
+     td {
+    border: 3px solid #f40505;}
+
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -726,7 +729,7 @@ Updated
 <td></td>
 </tr>
 <tr class="even">
-<td>Ken Aluminium Products Ltd. </td>
+<td>Kenya Aluminium Products Ltd. </td>
 <td></td>
 <td></td>
 <td></td>
