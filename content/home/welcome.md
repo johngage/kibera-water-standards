@@ -19,7 +19,7 @@ The **Kibera Water Services Providers Coalition ** is a center of excellence for
 
 see [Kiberawater.com](https://kiberawater.com)
 
-In the following week, we will hold initial meetings with our collaborators at SHOFCO, Kibera Town Centre, Carolina for Kibera, and KDI to discuss a common approach to the new administrations of Nairobi City-County and of Kenya. 
+This Friday, September 9, 2022, we will hold initial meetings with our collaborators at SHOFCO, Kibera Town Centre, Carolina for Kibera, and KDI to discuss a common approach to the new administrations of Nairobi City-County and of Kenya. All members of the Kibera Water Vendors Association, the Kibera Sanitation Services Association, and all those providing water services to Kibera are welcome.
 
 Our goal is to unite all those who provide the water supply of Kibera in creating a common agenda with agreed-upon common areas of agreement as we seek new resources for Kibera. 
 
