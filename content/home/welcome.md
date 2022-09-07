@@ -15,7 +15,7 @@ Tuesday, September 6, 2022
 Nairobi
 <br>
 
-The **Kibera Water Services Providers Coalition ** is a center of excellence for rebuilding Kibera water services. We focus on training, testing, water quality research, and practical support for every water service provider in Kibera.
+The **Kibera Water Services Providers Coalition** is a center of excellence for rebuilding Kibera water services. We focus on training, testing, water quality research, and practical support for every water service provider in Kibera. We are establishing the Kibera Water Standards Association to bring all water in Kibera to international standards. 
 
 see [Kiberawater.com](https://kiberawater.com)
 
