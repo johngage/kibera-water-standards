@@ -3,7 +3,7 @@ widget: hero
 widget_id: Recent Posts
 headless: true
 weight: 10
-title: Kibera Water Research Group
+title: Kibera Water Services Providers
 subtitle: Building Kibera Water for the Future of our Children
 design:
   columns: "1"
@@ -15,7 +15,7 @@ Tuesday, September 6, 2022
 Nairobi
 <br>
 
-The **Kibera Water Research Group** has been a center of excellence for water quality research, teaching, and practice since its founding in 2012.
+The **Kibera Water Services Providers Coalition ** is a center of excellence for rebuilding Kibera water services. We focus on training, testing, water quality research, and practical support for every water service provider in Kibera.
 
 see [Kiberawater.com](https://kiberawater.com)
 
