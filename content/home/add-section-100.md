@@ -1,9 +1,9 @@
 ---
 widget: blank
-widget_id: add-section-100
+widget_id: Build Kibera Water Library
 headless: true
-weight: 10
-title: Presentation slides
+weight: 30
+title: Resources for all Kibera Water Services Providers
 active: true
 design:
   columns: "2"
@@ -11,4 +11,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-# Nothing ever show up
+# Add Large Tool Lending Library, with tools for all tank and pipe repairs; include water quality testing equipment
