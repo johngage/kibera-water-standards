@@ -1,5 +1,5 @@
 ---
-widget: slides
+widget: blank
 widget_id: my-widget-123
 headless: true
 weight: 10
@@ -11,3 +11,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
+# Nothing ever show up
