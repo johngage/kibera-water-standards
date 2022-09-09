@@ -9,6 +9,7 @@ publication_types:
   - "1"
 authors:
   - MainaKhainga
+doi: https://repository.lboro.ac.uk/articles/conference_contribution/Building_an_integrated_water_waste-water_and_power_facility_in_Kibera_as_a_research_platform_lessons_learned/9592982
 abstract: "The Kibera Town Centre [KTC]has provided water and waste water
   treatment in the Kibera slum of Nairobi since July, 2014. This paper outlines
   the operational and engineering successes and failures in this four-year
