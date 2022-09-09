@@ -11,4 +11,5 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-# Kenya Water Institute
+# Kenya Water Institute Technical Manuals
+# California State Water Board: Technical Courses
