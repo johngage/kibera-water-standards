@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: my-widget-123
+widget_id: add-section-100
 headless: true
 weight: 10
 title: Presentation slides
