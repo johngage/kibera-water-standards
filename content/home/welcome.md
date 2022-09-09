@@ -3,7 +3,7 @@ widget: hero
 widget_id: Recent Posts
 headless: true
 weight: 10
-title: Kibera Water Services Providers
+title: Kibera Water Services Providers Coalition
 subtitle: Building Kibera Water for the Future of our Children
 design:
   columns: "1"
