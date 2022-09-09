@@ -1,8 +1,10 @@
 ---
-title: "MAINAet al.141stWEDC International Conference, Egerton University,
-  Nakuru, Kenya, 2018TRANSFORMATION TOWARDS SUSTAINABLE AND RESILIENT WASH
-  SERVICESBuilding  an  integrated  water,  waste-­water  and  power  facility  \
-  in  Kibera  as  a  research  platform:  lessons  learned"
+title: "MAINA et al. 141st WEDC International Conference, Egerton University,
+  Nakuru, Kenya, 2018 TRANSFORMATION TOWARDS SUSTAINABLE AND RESILIENT WASH
+  SERVICES
+  Building  an  integrated  water,  waste-­water  and  power  facility  in  Kib\
+  era  as  a  research  platform:  lessons  learned"
+subtitle: 2018 Nakuru World Water Conference
 publication_types:
   - "1"
 authors:
