@@ -31,6 +31,15 @@ E-learning portal: https://elearning.kewi.or.ke/course/index.php?categoryid=12
 - List of resources with URL links: http://197.138.11.102
 - 
 
+# California State Water Technician Training And Certification
+ ## All texts from California will be at the KTC Water Library
+ - List of Manuals
+ -  Drinking Water: https://www.owp.csus.edu/courses/drinking-water.php
+ -  Waste Water: https://www.owp.csus.edu/courses/wastewater.php
+ -  
+ ## List of Courses
+ - https://www.owp.csus.edu/courses/catalog.php
+
 
 
 
