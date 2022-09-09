@@ -8,7 +8,7 @@ subtitle: 2018 Nakuru World Water Conference
 publication_types:
   - "1"
 authors:
-  - R.Maina
+  - MainaKhainga
 abstract: "The Kibera Town Centre [KTC]has provided water and waste water
   treatment in the Kibera slum of Nairobi since July, 2014. This paper outlines
   the operational and engineering successes and failures in this four-year
