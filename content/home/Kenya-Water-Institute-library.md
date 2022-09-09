@@ -36,6 +36,7 @@ E-learning portal: https://elearning.kewi.or.ke/course/index.php?categoryid=12
  - List of Manuals
  -  Drinking Water: https://www.owp.csus.edu/courses/drinking-water.php
  -  Waste Water: https://www.owp.csus.edu/courses/wastewater.php
+  -   Books By Kenneth Kerri: https://www.gettextbooks.com/author/Kenneth_D_Kerri
  -  
  ## List of Courses
  - https://www.owp.csus.edu/courses/catalog.php
